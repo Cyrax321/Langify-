@@ -6,7 +6,7 @@
 
 ## Features 💥
 - Simple, user-friendly interface
-- Fast translation from English to 14+ languages 🌍
+- Fast translation from English to 14+ languages🌍
 - Instant translation results 🔥
 - Choose from a variety of languages like Spanish, French, German, and more! 🇪🇸🇫🇷🇩🇪
 
