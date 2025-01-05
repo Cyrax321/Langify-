@@ -74,5 +74,5 @@ Feel free to fork the repo, make your changes, and submit a pull request! 🚀
 
 ## Contact 👇
 
-For any questions or feedback, hit me up on Twitter or send me an email! 📧
+For any questions or feedback,hit me up on Twitter or send me an email! 📧
 Email: anandhubusiness9@gmail.com
