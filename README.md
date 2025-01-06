@@ -28,7 +28,7 @@
 
 ## Tools & Tech Used 🔧
 
-- **HTML5**: For the basic structure and layout of the app. 📄
+- **HTML5**: For the basic structure and layout of the app.📄
 - **CSS3**: To style the app and make it look fly. 😎
 - **JavaScript**: For the interactive elements like translating text. ⚡️
 - **Fetch API**: To make requests to external translation services and get results. 🌐
