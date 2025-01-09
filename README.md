@@ -49,7 +49,7 @@
 
 ## How To Use Langify 💻
 
-1. Clone or download the repo. 🔽
+1. Clone or download the repo.🔽
 2. Open `index.html` in your browser (it’s that simple). 😏
 3. Type your text, choose a language, and hit translate. That’s it, you’re good to go! 👌
 
